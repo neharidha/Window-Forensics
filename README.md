@@ -1,2 +1,12 @@
 # Window-Forensics
-Window Forensics - Autopsy 
+
+
+VM -shift VM
+
+Tool - Autopsy 
+
+
+
+Input - Windows XP image
+
+Output - Deleted converation 
